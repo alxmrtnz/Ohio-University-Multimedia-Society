@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BlackoutMidnight';
+    src: url('blackout-midnight.eot');
+    src: url('blackout-midnight.eot') format('embedded-opentype'),
+         url('blackout-midnight.woff') format('woff'),
+         url('blackout-midnight.ttf') format('truetype'),
+         url('blackout-midnight.svg#BlackoutMidnight') format('svg');
+}
